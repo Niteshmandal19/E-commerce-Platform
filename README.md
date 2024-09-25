@@ -7,6 +7,7 @@ Features :
 - Admin Panel - Add/Edit Orders. Add/Edit Products
 - Sorting, Filtering, and Pagination queries using Mongoose
 - Authentication with Passport JS strategies
+
 Technical Details :
 - MongoDB for Database
 - Mongoose v7 as ODM
